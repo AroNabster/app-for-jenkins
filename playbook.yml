@@ -6,7 +6,7 @@
 
 
   vars: 
-    source_file: ./MyWebSite/index.html
+    source_file: index.html
     destin_file: /var/www/html
 
   tasks:
